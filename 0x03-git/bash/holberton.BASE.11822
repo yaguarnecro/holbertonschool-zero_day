@@ -1,0 +1,4 @@
+!/bin/bash
+<<<<<<< HEAD
+echo "Holberton School is so cool!"
+>>>>>>> update_script
