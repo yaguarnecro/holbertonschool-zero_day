@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #!/bin/bash
 echo "Holberton School"
->>>>>>> update_script
-=======
-!/bin/bash
-echo "Holberton School"
->>>>>>> update_script
